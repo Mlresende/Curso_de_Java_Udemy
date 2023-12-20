@@ -2,7 +2,9 @@
 
 # Java COMPLETO 2023 Programação Orientada a Objetos + Projetos
 
-## Curso destinado ao aprendizado de Java e suas boas práticas
+## Repositorio de exercicios em Java
+
+### Tópicos:
 <ul>
     <li>Lógica de programação e algoritmos</li>
     <li>Sintaxe da linguagem Java</li>
