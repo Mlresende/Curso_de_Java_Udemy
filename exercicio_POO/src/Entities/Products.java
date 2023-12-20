@@ -1,15 +1,50 @@
 package Entities;
 
 public class Products {
-	public String name;
-	public double price;
-	public int quantity;
-
+	
+	private String name;
+	private double price;
+	private int quantity;
+	
+	//Construtor padão;
+	public Products(){
+	}
+	
+	//Construtor;
 	public Products(String name, double price, int quantity){
 		this.name=name;
 		this.price=price;
 		this.quantity=quantity;
 	}
+	
+	//Exemplo de sobrecarga;
+	public Products(String name, double price){
+		this.name = name;
+		this.price = price;
+	}
+
+	//Encapsulamento
+	public void setName(String name){
+		this.name = name;
+	}
+
+	public String getName(){
+		return name;
+	}
+
+	public void setPrice(double price){
+		this.price = price;
+	}
+
+	public double getPrice(){
+		return price;
+	}
+	
+	public int getQuantity(){
+		return quantity;
+	}
+	
+	//Metodos
 	public double totalValueInStock() {
 		return price * quantity;
 	}
