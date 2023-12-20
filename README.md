@@ -1,3 +1,5 @@
+![Img_inicial](https://imgur.com/z0vDRrz.png)
+
 # Java COMPLETO 2023 Programação Orientada a Objetos + Projetos
 
 ## Curso destinado ao aprendizado de Java e suas boas práticas
@@ -26,3 +28,11 @@ Nós também vamos aprender as principais ferramentas e frameworks para se traba
     <li>Spring Data JPA - framework para acesso a dados ORM</li>
     <li>Spring Data MongoDB - framework para acesso a dados NoSQL ao banco MongoDB</li>
 </ul>
+
+### Tecnologias utilizadas no curso:
+
+![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)![MONGODB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)![SPRINGBOOT](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+
+### Metodologia
+
+Além de cobrir a teoria de forma clara e objetiva, o curso possui muito enfoque prático. Cada seção do curso possui exercícios resolvidos e exercícios propostos para você treinar. E nós vamos ainda fazer projetos neste curso, os quais vão te permitir colocar tudo que você aprendeu em prática, e vai te permitir compreender como os tópicos se unem para a construção de projetos reais.
